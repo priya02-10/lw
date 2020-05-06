@@ -1,2 +1,2 @@
-x=5
+aaaaa
 print("x")
